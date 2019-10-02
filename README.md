@@ -1,2 +1,2 @@
 # guia-networkx
-Usos básicos de la librería networkx para implementar grafos
+Usos básicos de la librería __networkx__ para implementar grafos
