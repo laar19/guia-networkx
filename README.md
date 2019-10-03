@@ -2,7 +2,7 @@
 
 *Guía Networkx* es un *Jupyter Notebook* donde resumo mi experiencia de trabajo con la librería *Networkx* para el manejo de grafos en *Python*.
 
-<img src="https://img.shields.io/badge/License-MIT-green" /> <img src="https://img.shields.io/badge/Python-3.5-blue" />
+<img src="https://img.shields.io/badge/Python-3.5-blue" />
 
 ## Desarrollador.
 
