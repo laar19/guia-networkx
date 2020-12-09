@@ -1,38 +1,41 @@
-# Guía Networkx.
+# Networkx Guide.
 
-*Guía Networkx* es un *Jupyter Notebook* donde resumo mi experiencia de trabajo con la librería *Networkx* para el manejo de grafos en *Python*.
+*Networkx Guide* is a *Jupyter Notebook* where I summarize my experience working with the *Networkx* library for managing networks in *Python*.
 
 <img src="https://img.shields.io/badge/Python-3.5-blue" />
 
-## Desarrollador.
+## Developer.
 
-* [Ing. Luís Acevedo.](mailto:laar@protonmail.com)
+* [Eng. Luis Acevedo.](mailto:laar@protonmail.com)
 
-## Indice de contenido.
+## Table of contents.
 
-* [**Main**](main.ipynb): configuración y uso de la librería *Networkx*.
+* [**Main**](main.ipynb): configuration and use of the *Networkx* library.
 
-## Dependencias.
+## Dependencies.
 
-Este proyecto requiere la instalación de las siguientes dependencias externas:
+This project requires the installation of the following external dependencies:
 
 * *Jupyter 1.0.0* (`$ pip install jupyter`)
 * *Networkx 2.3* (`$ pip install networkx`)
 
-Estas dependencias pueden instalarse por separado o pueden instalarse mediante la ejecución de una única instrucción en la terminal:
+These units can be installed separately or they can be installed by executing a single instruction in the terminal:
 ```bash
 $ pip install -r requirements.txt
 ```
 
-## Contribuciones.
+## Contributions.
 
-Este repositorio es de *código abierto*; lo que significa que cualquier persona interesada puede contribuir en él. Todas las contribuciones serán bienvenidas, incluyendo:
+This repository is *open source*; which means that anyone interested can contribute to it. All contributions are welcome, including
 
-* Correcciones ortográficas.
-* Nuevas figuras.
-* Correcciones en el código *Python*, incluídas mejoras de estilo.
-* Mejores ejemplos.
-* Mejores explicaciones. 
-* Correcciones de errores conceptuales.
+* Spelling corrections.
+* New figures.
+* *Python* code fixes, including style improvements.
+* Better examples.
+* Better explanations. 
+* Conceptual error corrections.
 
-La forma de contribuir es vía la interfaz web de *GitHub*, mediante peticiones de [*Pull requests*](https://github.com/laar19/guia-networkx/pulls), o reportando los problemas/bugs del repositorio por [*Issues*](https://github.com/laar19/guia-networkx/issues).
+The way to contribute is via the *GitHub* web interface, through [*Pull requests*](https://github.com/laar19/guia-networkx/pulls), or reporting the problems/bugs of the repository by [*Issues*](https://github.com/laar19/guia-networkx/issues).
+
+
+Translated with www.DeepL.com/Translator (free version)
